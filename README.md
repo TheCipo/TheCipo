@@ -1,5 +1,5 @@
 # 💫 About Me:
-**I'm currently working on**  <br>- Arduino/ESP32 projects<br>- Improving my skills in coding<br>- Drone position triangulation using HC-SR04 sensors and ESP32/Arduino for automated package collection<br><br>**I'm looking for help with**  <br>- Advanced Python scripting for hardware integration  <br>- Best practices for Arduino and ESP32 communications <br><br>**I'm currently learning**  <br>- More advanced electronics and embedded programming  <br>- Aerodynamics and flight simulation  <br><br>**Fun fact**  <br>- I passed the ENAC exam for SFCL license at 16  <br>
+**I'm currently working on**  <br>- Arduino/ESP32 projects<br>- Improving my skills in coding<br>- Drone position triangulation using HC-SR04 sensors and ESP32/Arduino for automated package collection<br><br>**I'm looking for help with**  <br>- Advanced Python scripting for hardware integration  <br>- Best practices for Arduino and ESP32 communications <br><br>**I'm currently learning**  <br>- More advanced electronics and embedded programming  <br>- Aerodynamics and flight simulation  <br><br>**Fun fact**  <br>- I passed the ENAC exam for SFCL license at 16 and get my licence at 17 <br>
 
 
 ## 🌐 Socials:
